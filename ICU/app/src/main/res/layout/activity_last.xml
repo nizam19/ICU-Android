@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".LastActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="267dp"
+        android:layout_height="87dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="244dp"
+        android:text="\nThank You your FeedBack has been Recieved"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="245dp" />
+</LinearLayout>
